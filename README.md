@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Alex 👋
 
-<!--
-**alexvranicich/alexvranicich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 Genova, 02/06/1997
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,java,php,js,html,css,sql)](https://skills.thijs.gg)
+
+## Frameworks
+
+[![My Skills](https://skills.thijs.gg/icons?i=laravel,bootstrap,jquery,net)](https://skills.thijs.gg)
+
+## Tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,docker,mysql,postgres,nginx)](https://skills.thijs.gg)
+
+## Contacts
+
+<p>
+  <a href="https://www.linkedin.com/in/alex-vranicich/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/> 
+  </a>
+    <a href="https://instagram.com/alex_vranicich?igshid=ZDdkNTZiNTM=">
+    <img src="https://skillicons.dev/icons?i=instagram"/> 
+  </a>
+</p>
+
+    
